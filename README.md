@@ -12,7 +12,8 @@ The model integrates:
 - A **Vision Mamba backbone** for efficient long-range feature extraction
 - A **U-Net-style encoder–decoder** for spatial reconstruction
 - **Attention Gate mechanisms** to focus on tumor-relevant regions and suppress background noise
-
+  
+### More on: https://ashish-pandey-portfolio-sigma.vercel.app/projects/ag-vim
 ---
 
 ## Results
